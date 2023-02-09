@@ -1,0 +1,35 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex:1;
+  width:100vh;
+  height: 100vh;
+}
+
+
+.App {
+ display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.top-bar {
+  display: flex;
+  flex:10;
+  border-bottom: #747bff;
+  border-width:2px;
+  border-bottom-style: solid;
+}
+
+.link {
+  margin:2px;
+  padding: 0.5rem;
+  border:1px solid coral;
+  color:black;
+}
+
+.view {
+  display: flex;
+  flex:90
+}
