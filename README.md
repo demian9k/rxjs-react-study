@@ -4,7 +4,7 @@ The source code for this project includes examples from the `rxjs quickstart` bo
 
 The original code was rewrited into react.js code for learning purposes.
 
-### dependancies 
+### dependencies 
 - vite
 - typescript
 - react.js 18
